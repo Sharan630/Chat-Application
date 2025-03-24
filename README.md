@@ -18,8 +18,11 @@ A basic real-time chat application built with Node.js, Express, and WebSockets. 
 🚀 Features
 
 ✅ Real-Time Messaging (Powered by WebSockets)
+
 ✅ Simple UI (HTML, CSS, JavaScript)
+
 ✅ Lightweight and Fast (Minimal dependencies)
+
 ✅ Node.js Server (Handles WebSocket connections)
 
 🛠 Tech Stack
