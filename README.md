@@ -43,4 +43,14 @@ Disconnection Handling: When a user leaves, the server detects it and updates th
 
 📸 Screenshots
 
+🔹 User Interface
+
+![Image](https://github.com/user-attachments/assets/e2f961d3-a146-47d8-8ab0-347ac2e146c9)
+
 🔹 Chat Interface
+
+![Image](https://github.com/user-attachments/assets/78439b21-7e99-4e87-9b5f-f609a70e1b42)
+
+![Image](https://github.com/user-attachments/assets/bbdfb21d-5feb-44c3-b8ea-29354eed6646)
+
+![Image](https://github.com/user-attachments/assets/2918cd1c-61ce-40ed-abdc-e85865f477a6)
